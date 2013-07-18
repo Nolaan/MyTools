@@ -1,0 +1,3 @@
+[submodule "Scripts/Net"]
+	path = Scripts/Net
+	url = https://github.com/Nolaan/Tools.git
